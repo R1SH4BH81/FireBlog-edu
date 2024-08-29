@@ -16,6 +16,11 @@ Welcome to the Blog Application repository! This project is a full-featured blog
 The Blog Application allows users to create, view, and manage blog posts. It integrates Firebase for backend services, including Firestore for data storage and Firebase Authentication for user management. [Live Preview](https://fireblog-edu.vercel.app/)
 [Also Visit](https://eightbitblog.tech)
 
+## ScreenShot
+![Home Page of FireBlog](https://firebasestorage.googleapis.com/v0/b/myblog-8800d.appspot.com/o/manifest%2FgithubPinned%2Ffireblog.png?alt=media&token=d8abfdf4-5ef9-4afd-a191-5e9467290535)
+
+
+
 ## Features
 
 - **User Authentication**: Register, log in, and manage user sessions.
