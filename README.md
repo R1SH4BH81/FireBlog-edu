@@ -30,11 +30,11 @@ To get started with the Blog Application, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/R1SH4BH81/FireBlog.git
+    git clone https://github.com/R1SH4BH81/FireBlog-edu.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd FireBlog
+    cd FireBlog-edu
     ```
 3. Install dependencies:
     ```bash
